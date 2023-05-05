@@ -15,6 +15,11 @@
 * consists of an RPi hooked up to a car via OBD, a web server & mobile app
 * browse code and track project at the [org](https://github.com/alpaDrive)
 
+### DNArchery (collab with [Mufeed VH](https://mufeedvh.com) & [Vivek R](https://github.com/123vivekr))
+* a free and open-source cross-platform DNA Sequencing/Visualization Software for bioinformatics research.
+* project won [FOSS Hack 3.0](https://fossunited.org/fosshack/2023). View results [here](https://forum.fossunited.org/t/foss-hack-3-0-results/1882)
+* browse project [here](https://github.com/DNArchery/DNArchery)
+
 ### PilotNet
 * a TensorFlow implementation of a research paper by NVIDIA & Google Research on the CARLA simulator
 * ability to generate new data, train model and predict
