@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 #### I'm Vishal, yet another dev on the internet :wink:
 [![Progress](https://img.shields.io/badge/JavaScript-40%25-yellow)]() [![Progress](https://img.shields.io/badge/Rust-20%25-orange)]() [![Progress](https://img.shields.io/badge/Python-20%25-blue)]() [![Progress](https://img.shields.io/badge/Kotlin-20%25-green)]()
 - 🎓 currently pursuing an undergraduate degree in Computer Science.
